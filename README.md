@@ -28,6 +28,6 @@ Bilgisayar Programcılığı mezunu, modern teknolojilerle mobil ve web uygulama
 ---
 
 ### 🌐 İletişim & Bağlantılar
-- **Web Sitesi:** [efecancengiz.com.tr](https://efecancengiz.com.tr)
+- **Web Sitesi:** efecancengiz.com.tr](https://efecancengiz.com.tr
 - **LinkedIn:** [www.linkedin.com/in/efecan-cengiz-26a7282b5)
 - **E-Posta:** efecancengiz034@gmail.com
