@@ -28,6 +28,15 @@ Bilgisayar Programcılığı mezunu, modern teknolojilerle mobil ve web uygulama
 ---
 
 ### 🌐 İletişim & Bağlantılar
-- **Web Sitesi:** efecancengiz.com.tr](https://efecancengiz.com.tr
-- **LinkedIn:** [www.linkedin.com/in/efecan-cengiz-26a7282b5)
+- **Web Sitesi:** [efecancengiz.com.tr](https://efecancengiz.com.tr)
+- **LinkedIn:** [linkedin.com/in/efecan-cengiz-26a7282b5](https://www.linkedin.com/in/efecan-cengiz-26a7282b5)
 - **E-Posta:** efecancengiz034@gmail.com
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Efecancengiz&show_icons=true&theme=radical" alt="Efecan'ın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancengiz&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+</p>
