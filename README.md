@@ -29,5 +29,5 @@ Bilgisayar Programcılığı mezunu, modern teknolojilerle mobil ve web uygulama
 
 ### 🌐 İletişim & Bağlantılar
 - **Web Sitesi:** [efecancengiz.com.tr](https://efecancengiz.com.tr)
-- **LinkedIn:** [Profilime Git](https://www.linkedin.com/in/efecancengiz) *(LinkedIn kullanıcı adınızı kontrol edip linki güncelleyebilirsiniz)*
-- **E-Posta:** İletişim için web sitemi veya LinkedIn'i kullanabilirsiniz.
+- **LinkedIn:** [www.linkedin.com/in/efecan-cengiz-26a7282b5)
+- **E-Posta:** efecancengiz034@gmail.com
